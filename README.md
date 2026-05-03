@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit e33e16d959de86ab6265cf28b9c6581cb0c870f8
+> في الليل ونار الشوق بتكويني
+> لمسة إيديك بتشعل نار فيا
+> مشاعر مش هتهدى وتناديني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
