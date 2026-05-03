@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Mashaa3er Mosh Hatzah |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 03, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mashaa3er-mosh-hatzah/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit e33e16d959de86ab6265cf28b9c6581cb0c870f8
+> في الليل ونار الشوق بتكويني
+> لمسة إيديك بتشعل نار فيا
+> مشاعر مش هتهدى وتناديني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
